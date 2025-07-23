@@ -9,10 +9,10 @@
 
 ## 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukul-pandey-097883290/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__mukul.pandey)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/mukulpandey16/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Mukulpandey1612)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__mukul.pandey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mukul-pandey-097883290)
+[![Leetcode](https://img.shields.io/badge/Leetcode-%23E5555F.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/mukulpandey16/)
+[![GitHub](https://img.shields.io/badge/GitHub-%2320232a.svg?logo=GitHub&logoColor=white)](https://github.com/Mukulpandey1612)
+
 
 ---
 
