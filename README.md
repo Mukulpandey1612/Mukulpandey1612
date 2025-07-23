@@ -41,11 +41,11 @@
 
 ## 📜 Certifications
 
-- ✅ ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white) [AWS Cloud Practitioner Essentials](https://drive.google.com/file/d/1AeogV_L_Dcqh7RSVOwSYNT4KcRa1PDVq/view?usp=sharing)
-- ✅ ![Forage](https://img.shields.io/badge/Forage-%2300C7B7.svg?style=flat&logo=forage&logoColor=white) [Deloitte Australia – Data Analytics Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_5B3FGtMn2fsqW8uFW_1746378693886_completion_certificate.pdf)
-- ✅ ![Java](https://img.shields.io/badge/Java%20Fundamentals-%23ED8B00.svg?logo=openjdk&logoColor=white) [Java Programming Fundamentals](https://drive.google.com/file/d/1XrsirFzfOMbxZFGTJI8WflfHdW22NLmb/view?usp=drivesdk)
-- ✅ ![HackerRank](https://img.shields.io/badge/HackerRank%20Problem%20Solving-%232EC866.svg?logo=hackerrank&logoColor=white) [Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/55de4892e3a8)
-- ✅ ![HackerRank](https://img.shields.io/badge/HackerRank%20SQL%20Advanced-%232EC866.svg?logo=hackerrank&logoColor=white) [SQL (Advanced)](https://www.hackerrank.com/certificates/7ac561466b3a)
+✅ ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white) [AWS Cloud Practitioner Essentials](https://drive.google.com/file/d/1AeogV_L_Dcqh7RSVOwSYNT4KcRa1PDVq/view?usp=sharing)
+✅ ![Forage](https://img.shields.io/badge/Forage-%2300C7B7.svg?style=flat&logo=forage&logoColor=white) [Deloitte Australia – Data Analytics Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_5B3FGtMn2fsqW8uFW_1746378693886_completion_certificate.pdf)
+✅ ![Java](https://img.shields.io/badge/Java%20Fundamentals-%23ED8B00.svg?logo=openjdk&logoColor=white) [Java Programming Fundamentals](https://drive.google.com/file/d/1XrsirFzfOMbxZFGTJI8WflfHdW22NLmb/view?usp=drivesdk)
+✅ ![HackerRank](https://img.shields.io/badge/HackerRank%20Problem%20Solving-%232EC866.svg?logo=hackerrank&logoColor=white) [Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/55de4892e3a8)
+✅ ![HackerRank](https://img.shields.io/badge/HackerRank%20SQL%20Advanced-%232EC866.svg?logo=hackerrank&logoColor=white) [SQL (Advanced)](https://www.hackerrank.com/certificates/7ac561466b3a)
 
 ---
 
