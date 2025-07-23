@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mukul Pandey 👋</h1>
+<h1 align="center">Hi, I'm Mukul Pandey</h1>
 <h3 align="center">Coding Enthusiast | Passionate about Algorithms & Web Development</h3>
 
 - 🎓 I’m currently pursuing **Engineering in Information Technology**
