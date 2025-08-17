@@ -49,12 +49,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Mukul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mukulpandey1612&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
