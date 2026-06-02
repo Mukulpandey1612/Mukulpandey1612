@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Mukul Pandey</h1>
-<h3 align="center">Coding Enthusiast | Passionate about Algorithms & Web Development</h3>
+<h3 align="center">Full-Stack & AI Application Developer | Building AI-powered products with Next.js, React, TypeScript and LLMs</h3>
 
-- 🎓 I’m currently pursuing **Engineering in Information Technology**
-- 💻 Love building projects with **JavaScript, React, Node.js & Java**
-- 📈 Aspiring **Software Developer | Problem Solver | Tech Learner**
+- 🎓 B.Tech Information Technology @PSIT Kanpur (2022–2026)
+- 💻 Building AI-powered and full-stack applications
+- 📈 Currently improving DSA, system design fundamentals and backend development
 
 ---
 
